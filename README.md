@@ -1,6 +1,6 @@
 # Blue Green Deployments
 
-The master is blue, the branch is green.
+The master is blue, the branch is green. JF
 
 Deploy from OSEv3.
 
